@@ -1,8 +1,6 @@
 # text-summarizer-2
 
-Here is a shorter, more professional version of the README with all emojis removed.
 
-SimpleTextSummarizer
 A Python script to generate abstractive summaries from text, .pdf, and .docx files using Hugging Face Transformers.
 
 This project is a single script (text_summarizer.py) intended for command-line use or as a module. It has no web interface or API.
